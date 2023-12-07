@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             //Show how variables work first
-            // Name - Type - Value
+            // Type - Name - Value
             int number = 12;
 
             double doubleNumber = 20.5;
